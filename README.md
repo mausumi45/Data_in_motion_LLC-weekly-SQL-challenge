@@ -6,3 +6,6 @@ https://leetcode.com/problems/calculate-special-bonus/
 
 Question - 2:
 https://leetcode.com/problems/employees-whose-manager-left-the-company/
+### SQL Challenge Week - 35
+![unnamed (1)](https://user-images.githubusercontent.com/98810351/233288591-ed12974e-340b-4771-a324-be08c10aac33.jpg)
+
